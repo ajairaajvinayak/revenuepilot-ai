@@ -1,0 +1,11 @@
+contact_id,company_name,industry,company_size,lead_source,region
+1,Acme Corp,SaaS,50,LinkedIn,North America
+2,Blueleaf Tech,SaaS,20,Website,Europe
+3,ZenRetail,Retail,200,Referral,Asia
+4,QuickPay Fin,Fintech,35,LinkedIn,North America
+5,CloudNest,SaaS,15,Email,Europe
+6,UrbanStyles,Retail,80,Ads,Asia
+7,SmartLedger,Fintech,60,Event,North America
+8,GrowthLabs,SaaS,10,Website,Europe
+9,FreshFoods,Retail,300,Referral,Asia
+10,RapidCash,Fintech,45,LinkedIn,North America
