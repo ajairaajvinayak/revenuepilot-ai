@@ -1,7 +1,6 @@
-streamlit
-pandas
-numpy
-sklearn
-scikit-learn
-google-generativeai
-python-dotenv
+streamlit==1.29.0
+pandas==2.1.3
+numpy==1.26.2
+scikit-learn==1.3.2
+google-generativeai==0.3.1
+python-dotenv==1.0.0
