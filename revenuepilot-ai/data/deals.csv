@@ -1,0 +1,11 @@
+deal_id,contact_id,deal_amount,deal_stage,closed_won,date
+101,1,12000,Closed Won,1,2025-06-01
+102,2,6000,Closed Lost,0,2025-06-10
+103,3,15000,Closed Won,1,2025-06-15
+104,4,8000,Closed Won,1,2025-06-18
+105,5,4000,Closed Lost,0,2025-06-21
+106,6,10000,Closed Won,1,2025-06-25
+107,7,20000,Closed Won,1,2025-06-28
+108,8,5000,Closed Lost,0,2025-07-01
+109,9,25000,Closed Won,1,2025-07-05
+110,10,14000,Closed Won,1,2025-07-08
